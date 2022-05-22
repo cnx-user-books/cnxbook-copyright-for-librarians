@@ -1,0 +1,232 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creative approaches and alternatives</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m22653</md:content-id>
+  <md:title>Creative approaches and alternatives</md:title>
+  <md:abstract>Traditional rights management often involves an exclusive assignment of all of the rights associated with a copyright from the author to a publisher. The publisher then makes copies and distributes the work to the public for a fee.
+By contrast, free, libre and open access models disseminate works at no cost to the user. This module describes these alternative approaches, focusing on Creative Commons licensing and Open Access policy for scientific publications.</md:abstract>
+  <md:uuid>03a430f1-0ef7-4f23-87d1-b52169a06f7b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8298569">
+      <title>Module 6: Creative Approaches and Alternatives</title>
+      <para id="para-id8298569">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170748271095">
+      <title>Learning objective</title>
+      <para id="id1170744585309">Traditional rights management often involves an exclusive assignment of all of the rights associated with a copyright from the author to a publisher. The publisher then makes copies and distributes the work to the public for a fee.</para>
+      <para id="id1170742580418">By contrast, <emphasis>free, libre </emphasis>and <emphasis>open access </emphasis>models disseminate works at no cost to the user. This module describes these alternative approaches, focusing on Creative Commons licensing and Open Access policy for scientific publications.</para>
+    </section>
+    <section id="id1170754104070">
+      <title>Case study</title>
+      <para id="id1170747357638">Angela writes Nadia the following email: “A professor at our university is the author of one of the articles I want to include in the course pack. However, when I contacted him to request his permission, he answered that he had already transferred all his rights to a publisher and thus wasn’t able to allow me to copy his work. How can it be possible that someone can’t even authorize use of his own work? What could be done to avoid this situation in the future?”</para>
+      <para id="id1170742619947">How should Nadia respond?</para>
+    </section>
+    <section id="id1170747974169">
+      <title>Lesson</title>
+      <para id="para-id1170747974169">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170743313222">
+      <title>Introduction: Physical and Digital Commons</title>
+      <para id="id1170750767568">Physical objects are often <emphasis>scarce</emphasis> and <emphasis>rivalrous</emphasis><emphasis effect="bold">.</emphasis> This means that there are a limited number of such objects, and using one decreases the total amount that can be consumed. For example, an apple can be eaten by only one person, and when it is eaten, fewer apples are available to be consumed by other people.</para>
+      <para id="id1170743157883">By contrast, the intellectual products governed by copyright law typically are <emphasis effect="bold">nonrivalrous</emphasis>. A novel, for example, may be read and enjoyed by an unlimited number of people.</para>
+      <para id="id1170744134336">Digital technology has sharply reduced the cost of making copies of embodiments of intellectual products and thus has highlighted the nonrivalrous character of those products. If the novel (to continue our example) is in an electronic format, an unlimited number of copies of it can be made and distributed very cheaply.</para>
+      <para id="id1170748855092">The wide distribution of intellectual products is socially beneficial. If that widespread distribution can be accomplished very inexpensively, why doesn't the law permit it? As we saw in <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Module_1:_Copyright_and_the_Public_Domain">Module 1</link>, the conventional answer is that prohibitions on copying are necessary to preserve incentives for novelists to write novels in the first instance.</para>
+      <para id="id1170755021462">In a growing number of contexts, reformers are challenging that answer. Authors of some works -- or some kinds of works -- may not need all of the rights that copyright law gives them in order to remain motivated to produce creative works. In such settings, copyright law may do more harm than good. To deal with situations of this sort, the reformers have developed various systems to facilitate more widespread use of creative works than the copyright system contemplates. This module describes those systems.</para>
+    </section>
+    <section id="id1170755581257">
+      <title>Free Software Licenses</title>
+      <para id="id1170742619130">Most commercial software programs are distributed under restrictive terms of use. Moreover, their source code -- the code that makes the program run -- is <emphasis>closed</emphasis><emphasis effect="bold">.</emphasis> As a result, developers cannot study the code to understand how it works, to fix bugs, or to customize it to their needs.</para>
+      <para id="id1170743876785">A radically different approach to software was first developed by Richard Stallman, when he was a researcher at the Massachusetts Institute of Technology. Stallman became angry when he could not modify the software for a printer in his office that was not working properly. Provoked by this and other experiences, Stallman created the GNU-GPL, which stands for "GNU is not Unix" General Public License. (Unix was the name of a popular "closed" operating system.) The GNU-GPL allows users to run, copy, distribute, study, change, and improve the software to which it is applied. More specifically, the GNU-GPL grants users <link url="http://www.gnu.org/philosophy/free-sw.html">four kinds of freedoms</link>:</para>
+      <list id="id1170766114660" list-type="bulleted">
+        <item>The freedom to run the program for any purpose (freedom 0).</item>
+        <item>The freedom to study how the program works, and to adapt it to your needs (freedom 1). Access to the source code is a precondition for this.</item>
+        <item>The freedom to redistribute copies so you can help your neighbor (freedom 2).</item>
+        <item>The freedom to improve the program, and release your improvements (and modified versions in general) to the public, so that the whole community benefits (freedom 3). Access to the source code is a precondition for this, and modifications must be shared with the same degree of freedom.</item>
+      </list>
+      <para id="id1170746352899">In what sense, exactly, is software licensed on these terms, "free"? Stallman suggested that analytical clarity could be enhanced by differentiating two meanings of "free" -- one that appears in the phrase, “free speech”; the other that appears in the phrase, “free beer.” Other commentators distinguish these concepts by using the French terms, <emphasis>libre</emphasis> (meaning freedom) and <emphasis>gratis</emphasis> (meaning no cost). Relying on this distinction, Stallman argued that free software was "free" in the first sense, but not necessarily in the second sense. In other words, some "free software" is sold for a fee. That said, in practice most free software currently is "free" in both senses -- in other words, both libre AND gratis.</para>
+      <para id="id1170755902741">There are many incentives that drive the creation of free software. A developer might find it entertaining to do so. She might be driven by a desire to contribute to the public domain. She might want to build her reputation as a programmer. She might distribute the software for free but charge users for help in customizing it to their needs. Economists continue to discuss whether incentives of these various sorts are sufficient to sustain a viable business. Meanwhile, businesses relying on this approach are flourishing.</para>
+    </section>
+    <section id="id1170753103560">
+      <title>Creative Commons</title>
+      <section id="id1170744695753">
+        <title>Introduction</title>
+        <para id="id1170758289898">Creative Commons is a non-profit organization created in 2001 by a group of scholars and activists. It was founded and led for a long time by renowned cyberlaw scholar <link url="http://lessig.org/">Lawrence Lessig</link>.</para>
+        <para id="id1170742926815">Creative Commons provides authors convenient ways to authorize specific uses of their works, while retaining control over other uses. In other words, it allows them easily to create their own licenses, minimize the orphan works problem, and contribute to culture and free expression.</para>
+      </section>
+      <section id="id1170760597103">
+        <title>The license options</title>
+        <para id="id1170743250317">Creative Commons offers a set of six licenses from which authors and artists can <link url="http://creativecommons.org/license/">choose online</link>.</para>
+        <para id="id1170760330283">The CC licenses are combinations of one, two or three of the following four elements:</para>
+        <list id="id1170743328171" list-type="bulleted">
+          <item>Attribution (BY): You let others use your work but only if they give credit the way you request. Attribution is required for all Creative Commons licenses.</item>
+          <item>Non-Commercial (NC): You let others use your work but for noncommercial purposes only. This does not mean that works cannot be used for commercial purposes, but that a separate license must be obtained by a user who wishes to use the work commerciallys.</item>
+          <item>Non Derivative (ND): You let others copy, distribute, display, and perform only verbatim copies of your work, not derivative works based upon it. The right to make adaptations can be licensed under a separate agreement.</item>
+          <item>Share Alike (SA): You allow others to make derivatives from your original work but they are permitted to distribute derivative works only under the same terms as the license that governs your work, or a license that is compatible with those terms. SA is used to prevent people from taking something from the commons and then locking it up by using a more restrictive license.</item>
+        </list>
+        <para id="id1170749430156">The license terms, “Non Derivative” and “Share Alike,” are not compatible and cannot be found in the same license. This is because it doesn't make sense to tell people they should incorporate your work and share it alike while also telling them they may not make derivative copies of it.</para>
+        <para id="id1170742384171">All of the licenses are non-exclusive. In other words, authors are free to enter into other agreements with specific users. For example, it is possible for copyright holders who have issued CC licenses to enter into fee-bearing licenses for rights to engage in activities not covered by the CC license in question. In this way a songwriter might release her music for free on the Internet and still charge a company for using it in a commercial.</para>
+        <para id="id1170751654187">Creative Commons licenses do not address an author's moral rights in any country except Canada. Accordingly, a work that is governed by even the most liberal Creative Commons license may still be subject to certain restrictions on use, in accordance with your country's provisions on moral rights.</para>
+        <para id="id1170748877211">Creative Commons, like the copyright regime as a whole, has no registration system; it merely provides information for authors who wish to license their works on nontraditional terms.</para>
+        <para id="id1170745257795">The Creative Commons website provides a simple quiz asking creators what freedoms they'd like to allow with their work. It then gives the creator a choice of appropriate licenses from which to choose. The quiz also allows the author to specify which country's laws will govern the license. Currently, the Creative Commons license has been translated or "ported" to the laws of 52 countries, and many more countries are currently under development.</para>
+        <para id="id1170744131826">Once a creator has selected a license, she attaches this license to copies of her work, thus alerting users to what they can and cannot do. If the work is (or is offered through) a website, the author can do this by adding to the site a piece of HTML code that generates a button with the Creative Commons logo containing a link to the license at issue.</para>
+      </section>
+      <section id="id1170749333127">
+        <title>Creative Commons Licenses Formats</title>
+        <para id="id1170744089109">Each of the CC licenses is available in three formats suitable for online use:</para>
+        <list id="id1170749426674" list-type="bulleted">
+          <item>A machine-readable version, or digital code, which is embedded in the Creative Commons logo and informs other computers of the license.</item>
+          <item>The human readable code, or common deed (a summary explaining the main rights and freedoms, with icons corresponding to the elements which have been selected), available from the link embedded in the logo.</item>
+          <item>The legal code (a license of several pages written in legal language, detailing the clauses, which are represented by the icons), available from a link at the end of the human readable code.</item>
+        </list>
+        <para id="id1170755581667">Creative Commons licenses can be used for works made and distributed offline as well. For instance, a work created in the physical world might have a physical license attached that reads: <emphasis effect="italics">"This work is licensed under the Creative Commons BY-SA License. To view a copy of this license, visit the Creative Commons website."</emphasis> Unfortunately, offline works cannot be included in the Creative Commons search engine that catalogs freely available works on the website.</para>
+        <para id="id1170758276181">There is an extended explanation of how to attach Creative Commons licenses to works on the <link url="http://wiki.creativecommons.org/Marking">Creative Commons website</link>.</para>
+      </section>
+      <section id="id1170743315059">
+        <title>The Scope of the License</title>
+        <para id="id1170742894633">A Creative Commons license only applies to material to which the licensor has rights. It does not apply to material the licensor has acquired from other sources and to which he does not have rights.</para>
+        <para id="id1170750317794">Suppose, for example, that a teacher prepares a Powerpoint slide presentation, which he plans to use for classroom teaching. He downloads some photographs illustrating his arguments from the Internet and inserts them into the presentation -- believing, plausibly, that the use of the photos for teaching falls within one of the exceptions and limitations contained in the copyright law of his country. He attaches a simple "Attribution" Creative Commons license to each of his slides. In other words, he grants anyone permission to use the slides for any purpose, provided that they give him credit. One of the students in the class obtains a digital copy of the slide presentation and emails it to a friend working in a for-profit company. The friend finds the slides helpful and distributes copies of them at a commercial sales meeting. Most likely, the friend will have violated the nation's copyright law. Why? Because the Creative Commons license does not apply to the photos, and the reproduction of them for commercial purposes probably does not fall into any of the exceptions and limitations.</para>
+        <para id="id1170743676939">This principle is not widely understood, and even the formal version of the Creative Commons license is not crystal clear on this point. To avoid confusion, it is best for licensors using Creative Commons licenses to specify what those licenses do and do not cover.</para>
+      </section>
+      <section id="id1170743267086">
+        <title>Other Creative Commons Projects</title>
+        <section id="id1170743873978">
+          <title>Creative Commons International</title>
+          <para id="id1170742654708">The <link url="http://creativecommons.org/international/">Creative Commons International</link> (CCi) team coordinates the process of translating the Creative Commons licenses into other languages and adapting them to other legal systems. This is a complex and challenging process. CCi also provides teams to work with local user communities and governments in order to increase understanding and use of CC licenses. The local teams also work closely with CC staff to improve the license clauses and material.</para>
+        </section>
+        <section id="id1170766282672">
+          <title>Educational and Science Commons</title>
+          <para id="id1170761256297">Two other divisions of Creative Commons also engage in specialized work: <link url="http://learn.creativecommons.org/">ccLearn</link> for open educational resources and <link url="http://sciencecommons.org/">Science Commons</link> for open access to science.</para>
+        </section>
+        <section id="id1703913">
+          <title>New Creative Commons Protocols</title>
+          <para id="id1170749371572">In addition to the six licenses, Creative Commons has recently developed two new protocols: CC+ and CC0.</para>
+          <para id="id1170760479281"><link url="http://wiki.creativecommons.org/CCPlus">CC+</link> (CC “Plus”) is not a license, but a technology for offering users rights beyond the CC license grant -- for instance commercial rights, or additional warranties.</para>
+          <para id="id1170756942221"><link url="http://creativecommons.org/publicdomain/">CC0</link> (CC “Zero”) is a universal waiver of copyright, neighboring and related rights, and sui generis rights. CC0 thus enables authors to place their works in the public domain. CC0 is sometimes known as the “no rights reserved” option. Under the laws of certain countries, however, it is not possible for an author to grant a blanket waiver of his or her moral rights. Nor can an author waive the rights that others may have relating to the use of a work (for example, the publicity rights that the subject of a photograph may have).</para>
+          <para id="id1170753120588">A possible implementation model for digital libraries would be to propose a combination of:</para>
+          <list id="id1170761175350" list-type="bulleted">
+            <item>CC licenses for works created by librarians: abstracts, comments, photographs, maps, other copyrightable elements of the editorial structure;</item>
+            <item>CC licenses for works created by patrons: comments, abstracts, critics, blog posts;</item>
+            <item>CC0 licenses for databases of public domain works to which the libraries have added potentially copyrightable material.</item>
+          </list>
+        </section>
+        <section id="id1170742927036">
+          <title>Implications for Authors and for Users</title>
+          <para id="id1170761974152">Authors considering applying Creative Commons licenses to their creations should consider the following issues:</para>
+          <para id="id1170743023965">The licenses are based on copyright law, and are thus applicable only to copyrightable works.</para>
+          <para id="id1170742585132">In many countries, collecting societies require their members to assign all of their rights in present and future works to the societies. Thus, members cannot use Creative Commons licenses, even for some of their works or some of their rights.</para>
+          <para id="id1170742770554">Many authors do not understand why the two systems are not compatible, especially in the music industry. They would like to license their non-commercial rights for free under a Creative Commons license, and assign the management of their commercial rights to a collecting society. This model is possible for some collecting societies in some countries, such as the United States, the Netherlands or Denmark. But other collecting societies do not use the same legal categories as Creative Commons. For instance, they may not recognize the distinction between commercial and non-commercial uses. In those countries, authors are currently forced to choose one system or the other.</para>
+          <para id="id1170755579732">Creative Commons staff and international affiliates have been working with collecting societies in hopes of resolving this incompatibility. Unfortunately, some collecting societies and other copyright stakeholders are skeptical of Creative Commons licenses and are thus reluctant to move forward. Their criticisms of the Creative Commons model include:</para>
+          <list id="id1170746047691" list-type="bulleted">
+            <item>The Creative Commons system does not provide creators a way to collect money; creators thus must organize for themselves a way to charge for activities that fall outside the CC license terms.</item>
+            <item>Creative Commons does not track infringements and is not authorized to represent licensors in lawsuits or help them enforce the licenses.</item>
+            <item>Creative Commons licenses are non-revocable, and the license grant is perpetual. Authors who employ CC licenses thus cannot later change their minds. They can, of course, cease distributing the works or distribute them under different conditions, but this will not affect the rights associated with the copies that are already in circulation.</item>
+            <item>Determining what does and does not constitute a commercial use is a difficult question, and answers may vary among individuals and user communities.</item>
+            <item>It is questionable whether jurisdiction-specific licenses, which have been adapted to national legal systems, are really compatible with each other. For instance, some versions of the CC licenses include moral rights or database rights; others do not.</item>
+          </list>
+        </section>
+      </section>
+    </section>
+    <section id="id1170753169719">
+      <title>The Open Access movement</title>
+      <para id="id1170744515990">The Open Access (OA) movement seeks to increase the public availability of works of scholarship. It was provoked by a rapid rise in the price of scientific journals, forcing many libraries to cancel journal subscriptions. The movement claims that authors should be able to access freely their colleagues’ research for the benefit of science and the general public.</para>
+      <para id="id1170766700029">OA journals offer articles to the public online for free. They often use very open online licenses, such as the Creative Commons Attribution license. This strategy is sometimes known as “Gold Open Access.” Because they forgo traditional sources of revenue, OA journals must devise alternative business models. Some charge authors for publication of their work. Others rely entirely the work of volunteers.</para>
+      <para id="id3160795">Some journals are not OA journals, but authorize the authors of the articles they publish to archive versions of their articles in institutional repositories set up by their universities. This strategy is sometimes called “Green Open Access.” Some Green Open Access journals also allow authors to upload their work to free, discipline-specific public repositories, like the <link url="http://www.ssrn.com/">Social Science Research Network</link>. Journal copyright policies regarding self-archiving are analyzed by the project <link url="http://www.sherpa.ac.uk/romeo/">Sherpa RoMEO</link>. More than 50% of pay-journal policies allow their authors to archive their pre-print articles in open access repositories.</para>
+      <para id="id1170755861162">Some journals do not generally allow authors to host open-copies of their articles on their own websites. In these situations, authors may formally request that the publishing contract allow them to do so. Several addendum models are available. "SCAE," the <link url="http://sciencecommons.org/projects/publishing/scae/">Science Commons Scholars’ Copyright Addendum Engine</link> generates one such form.</para>
+      <para id="id1170753259042">Funding institutions can facilitate or compel the use of one or more of these strategies -- by encouraging or requiring grant recipients to make the fruits of their projects publicly available. Currently, the National Institutes of Health in the United States, the European Research Council, and the Wellcome Trust in the United Kingdom require their grantees to make their work publicly accessible.</para>
+      <para id="id3003723">Universities can also help. Harvard University has led the way on this issue. Starting in 2008, some schools within Harvard have required faculty members to provide the university with a non-exclusive, irrevocable, worldwide license to distribute their scholarly articles for non-commercial uses. However, a faculty member may override this default rule by obtaining a waiver for a specific article.</para>
+    </section>
+    <section id="id1170771036142">
+      <title>Back to the case study</title>
+      <para id="id1170748623140">Angela complains to Nadia that she cannot include in her course pack the article from a colleague because he transferred his rights to the publisher. Nadia informs Angela that some publishers have very strict policies, but that sometimes publishing contracts are in fact less restrictive than some authors may think. Together, they will search for the journal policy to see whether the article could be included.</para>
+      <para id="id2479664">Together, they will browse <link url="http://www.sherpa.ac.uk/romeo/">Sherpa RoMEO</link> because it “provides a listing of publishers' copyright conditions as they relate to authors archiving their work on-line.”</para>
+      <para id="id1170750684557">Finally, Nadia will suggest to Angela that, together, they provide the colleague information concerning Creative Commons, Open Access, and other systems that have been developed recently that might enable the colleague in the future to ensure that access to his scholarship is more open.</para>
+    </section>
+    <section id="id1170760535391">
+      <title>Additional resources</title>
+      <para id="id1170766246875">An extensive set of teaching materials on Free and Open Source Software can be found at the course website for <link url="http://cyber.law.harvard.edu/iif/Encouraging_the_Intellectual_Commons">The Internet: Issues at the Frontier</link>.</para>
+      <para id="id1170760333879">Other valuable resources on free software include:</para>
+      <list id="id1170749946630" list-type="bulleted">
+        <item>
+          <link url="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11216&amp;mode=toc">Joseph Feller et al., Perspectives on Free and Open Source Software (2007)</link>
+        </item>
+        <item>
+          <link url="http://www.people.hbs.edu/jlerner/simple.pdf">Josh Lerner and Jean Tirole, "The Simple Economics of Open Source" (2000)</link>
+        </item>
+        <item>
+          <link url="http://moglen.law.columbia.edu/911/">Eben Moglen, Faculty Presentation on Open Source, September 11, 2008</link>
+        </item>
+        <item><link url="http://twobits.net/pub/Kelty-TwoBits.pdf">Christopher Kelty, Two Bits: The Cultural Significance of Free Software (2008</link>)</item>
+        <item><link url="http://www.google.com/url?sa=U&amp;start=1&amp;q=http://cyber.law.harvard.edu/~wseltzer/openlaw.ppt&amp;ei=bvqMSemGB9WDtweirqWqCw&amp;usg=AFQjCNG-5tUD8K5tZuQFhNL6BTV_z_8LgQ">Wendy Seltzer, Open Source as Open Law</link> (Powerpoint Presentation)</item>
+      </list>
+      <para id="id1170744629944">The main website for Creative Commons is <link url="http://creativecommons.org/">http://creativecommons.org/</link></para>
+      <para id="id1170755391196">A large repository of photographs available under Creative Commons licenses is available through <link url="http://www.flickr.com/creativecommons/">Flickr</link></para>
+      <para id="id1170750697637">A thorough discussion, prepared in 2007 by Peter Suber, of the various dimensions of the Open Access Movement can be found at the <link url="http://www.earlham.edu/~peters/fos/overview.htm">Open Access Overview</link></para>
+      <para id="id1170753822320">The most important document in the OA Movement is the Budapest Open Access Initiative. Its history and impact are discussed on <link url="http://www.soros.org/openaccess/index.shtml">the website of the Soros Foundation</link></para>
+      <para id="id1170744136274">A Directory of Open Access Journals (DOAJ) can be found <link url="http://www.doaj.org/">here</link></para>
+      <para id="id1170761787046">A sampler of Open Access Journals in the Health Sciences:</para>
+      <list id="id1170751275402" list-type="bulleted">
+        <item>
+          <link url="http://www.bentham.org/open/todentj/">The Open Dentistry Journal</link>
+        </item>
+        <item>
+          <link url="http://www.hindawi.com/journals/ijd/">International Journal of Dentistry</link>
+        </item>
+        <item>
+          <link url="http://www.plosmedicine.org/">PLoS Medicine</link>
+        </item>
+        <item>
+          <link url="http://www.biomedcentral.com/browse/journals/">BioMed OA Medical Journals</link>
+        </item>
+        <item>
+          <link url="http://www.bioline.org.br/journals">BioLine International OA Journals</link>
+        </item>
+        <item>
+          <link url="http://www.la-press.com/">Open Access Medical Journals</link>
+        </item>
+        <item>
+          <link url="http://www.dovepress.com/open-access-emergency-medicine-journal">Open Access Emergency Medicine Journal</link>
+        </item>
+        <item>
+          <link url="http://www.safpj.co.za/index.php/safpj">South African Family Practice</link>
+        </item>
+        <item>
+          <link url="http://www.phcfm.org/index.php/phcfm/about">African Journal of Primary Health Care and Family Medicine</link>
+        </item>
+      </list>
+    </section>
+    <section id="id1170742868239">
+      <title>Cases</title>
+      <para id="id1170753823141">The following judicial opinions explore and apply some of the principles discussed in this module:</para>
+      <para id="id1170754312005"><link url="http://creativecommons.org/press-releases/entry/5822">Curry v. Weekend (District Court of Amsterdam, March 9, 2006)</link> (Creative Commons license)</para>
+      <para id="id1170750980611">
+        <link url="http://gpl-violations.org/news/20060922-dlink-judgement_frankfurt.html">GPL-Violations.org v. D-Link (District Court of Frankfurt 2006)</link>
+      </para>
+      <para id="id1170742734466"><link url="http://www.law.berkeley.edu/institutes/bclt/students/2009_spring_intro_ip/Jacobsen%20v%20Katzer%20-%20Westlaw.pdf">Jacobsen v. Katzer, 535 F.3d 1373 (CAFC 2008)</link> (Open Source Licenses)</para>
+    </section>
+    <section id="id1170751659585">
+      <title>Assignment and discussion questions</title>
+      <section id="id1170746217226">
+        <title>Assignment</title>
+        <para id="id1170753217810">Choose one of the following:</para>
+        <para id="id6651920">Question 1. Creative Commons currently supports the licensing of creative works in 52 countries. If your country is one of these, use search engines and other directories to locate some documents available under CC licenses that you could help promote and re-distribute.</para>
+        <para id="id1170750289035">Question 2. Determine if there are any OA journals published in your country. Make a list suitable for distribution to your patrons.</para>
+        <para id="id1170743251101">Question 3. Prepare slides or a one-page handout that you could use to educate librarians and academics concerning the Creative Commons system and OA options. Publish your document online with the Creative Commons license of your choice and send the link to the group. If your library doesn’t have a website, you may use <link url="http://www.slideshare.net/">SlideShare</link>.</para>
+        <para id="id1170755932040">Question 4. How would you design and implement an OA policy in your country?</para>
+      </section>
+      <section id="id1170756143705">
+        <title>Discussion Question(s)</title>
+        <para id="id1170742763926">Comment on strategies proposed by your colleagues in response to Round 1 question 4.</para>
+      </section>
+    </section>
+    <section id="id1170746441754">
+      <title>Contributors</title>
+      <para id="id7479126">This module was created by <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#rosnay">Melanie Dulong de Rosnay</link>. It was then edited by a team including <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#diaz">Sebastian Diaz</link>, <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#fisher">William Fisher</link>, <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#gasser">Urs Gasser</link>, <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#holland">Adam Holland</link>, <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#isbell">Kimberley Isbell</link>, <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#jaszi">Peter Jaszi</link>, <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#maclay">Colin Maclay</link>, <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#moshirnia">Andrew Moshirnia</link>, and <link url="http://cyber.law.harvard.edu/copyrightforlibrarians/Contributors#peterson">Chris Peterson</link>.</para>
+    </section>
+  </content>
+</document>
