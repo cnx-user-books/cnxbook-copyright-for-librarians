@@ -1,3 +1,23 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11329</md:content-id>  <md:title>Copyright for Librarians</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>      <md:uuid>46d690c4-ae7f-4e73-b99f-bd7c682f4ffb</md:uuid>
-<md:slug>copyright-for-librarians</md:slug>
-</metadata>  <col:content>          <col:module document="m17478"/>                            <col:module document="m22652"/>                            <col:module document="m22658"/>                            <col:module document="m22659"/>                            <col:module document="m22656"/>                            <col:module document="m22655"/>                            <col:module document="m22653"/>                            <col:module document="m22654"/>                            <col:module document="m38519"/>                            <col:module document="m38527"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Copyright for Librarians">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11329</md:content-id>
+    <md:title>Copyright for Librarians</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>46d690c4-ae7f-4e73-b99f-bd7c682f4ffb</md:uuid>
+    <md:slug>copyright-for-librarians</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m17478"/>
+    <col:module document="m22652"/>
+    <col:module document="m22658"/>
+    <col:module document="m22659"/>
+    <col:module document="m22656"/>
+    <col:module document="m22655"/>
+    <col:module document="m22653"/>
+    <col:module document="m22654"/>
+    <col:module document="m38519"/>
+    <col:module document="m38527"/>
+  </col:content>
+</col:collection>
